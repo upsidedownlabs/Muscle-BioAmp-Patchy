@@ -12,7 +12,7 @@
 Muscle BioAmp Patchy is a wearable ElectroMyoGraphy or EMG sensor that snaps directly to gel electrodes and connects to your muscle like a patch. It comes with reverse polarity projection, power indicator, onboard snap connectors, and Upside Down Labs' powerful BioAmp sensing technology for precise muscle signal recording. This enables you to easily integrate this sensor in your EMG-based Human-Computer Interface (HCI).
 
 
-![Muscle BioAmp Patchy Button Front](graphics/board/Muscle-BioAmp-Patchy-Front.png)
+![Muscle BioAmp Patchy Front](graphics/board/Muscle-BioAmp-Patchy-Front.png)
 ![Muscle BioAmp Patchy Back](graphics/board/Muscle-BioAmp-Patchy-Back.png)
 ![Muscle BioAmp Patchy](graphics/board/Patchy-All-Colors.jpg) 
 ![Muscle BioAmp Patchy Connections](graphics/board/Patchy-Arduino-Connections.jpg)
