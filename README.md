@@ -18,7 +18,7 @@ Muscle BioAmp Patchy is a wearable ElectroMyoGraphy or EMG sensor that snaps dir
 
 ## Hardware
 
-Muscle BioAmp Patchy has been created using KiCad and all the design files can be found under [hardware](hardware/) folder, including [Interactive BOM](hardware/bom) file. Images below shows a quick overview of the hardware design.
+Muscle BioAmp Patchy has been created using KiCad and all the design files can be found under [hardware](hardware/) folder, including [Interactive BOM](https://upsidedownlabs.github.io/Muscle-BioAmp-Patchy/ibom.html) file. Images below shows a quick overview of the hardware design.
 
 | PCB front | PCB back |
 | :-------: | :--------: |
